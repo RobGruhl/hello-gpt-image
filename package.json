@@ -1,0 +1,16 @@
+{
+  "name": "hello-gpt-image",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Canonical OpenAI Image generation reference — gpt-image-2 via Image API + Responses API, clean client, runnable examples",
+  "scripts": {
+    "generate": "node examples/01-basic-generate.js",
+    "stream": "node examples/04-streaming.js",
+    "edit": "node examples/06-edit-with-mask.js",
+    "responses": "node examples/07-responses-multi-turn.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0"
+  }
+}
