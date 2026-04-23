@@ -82,6 +82,7 @@ await generate('...', { client });
 - [Sizes, Quality, Formats](docs/03-sizes-quality-formats.md) — Constraints + presets
 - [Editing and Masks](docs/04-editing-and-masks.md) — Reference composition, mask alpha channel
 - [Pricing](docs/05-pricing.md) — Per-image costs, cost-reduction tactics
+- [Consistency Workflow](docs/06-consistency-workflow.md) — Characters, style, worlds across many generations (graphic novels, storyboards, series)
 
 ## Notes
 

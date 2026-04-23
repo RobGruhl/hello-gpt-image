@@ -8,7 +8,7 @@ OpenAI image generation — `gpt-image-2` via the Image API, plus multi-turn edi
 lib/constants.js     — Models, sizes, quality, formats, per-image pricing
 lib/gpt-image.js     — Canonical client: generate(), edit(), stream(), generateViaResponses(), createClient(), saveImage()
 examples/01-08       — Runnable examples (node examples/01-basic-generate.js)
-docs/01-05           — API reference, Image API vs Responses, sizes/quality/formats, editing+masks, pricing
+docs/01-06           — API reference, Image API vs Responses, sizes/quality/formats, editing+masks, pricing, consistency workflow
 ```
 
 ## Two APIs
